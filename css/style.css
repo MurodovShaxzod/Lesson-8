@@ -1,0 +1,33 @@
+body {
+  background-color: #4f696a;
+  padding: 3% 30%  2% 30%;
+}
+
+div {
+   background-color: #102020;
+   color: white;
+   text-align: center;
+   width: 450px;
+   height: 500x;
+   opacity: 0.8;
+   padding: 1% 10% 1% 10%;
+   
+  }
+
+.bir {
+  opacity: 0.8;
+  font-weight: 100;
+}  
+
+h1 {
+  font-size: 50px;
+}
+ 
+p {
+  font-size: 7px;
+}
+
+h2 {
+  font-size: 28px;
+}
+ 
